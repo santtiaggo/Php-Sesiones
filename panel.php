@@ -19,7 +19,7 @@
 <body>
     <h1>Panel de administracion</h1>
     <h2>Bienvenido: <?php echo $_SESSION ['usuario'] ?></h2>
-    <a href="">Cerrar sesión</a>
+    <a href="cerrar_sesion.php">Cerrar sesión</a>
     
 </body>
 </html>
