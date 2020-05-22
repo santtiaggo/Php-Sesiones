@@ -1,4 +1,5 @@
-<html lang="en">
+
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,7 +8,9 @@
     <title>Php Sesiones</title>
 </head>
 <body>
-    <h1 id = "h1">HOLA MUNDO</h1>
+    <h1 id = "h1">Login</h1>
+    <a  id = "I" href = "validar.php"> Ingresar </a><br>
+    
     <?php
     
     echo "Php Sesiones";
